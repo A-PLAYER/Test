@@ -29,3 +29,5 @@ int main()
 	s d;
 	cout << d.r(e) << endl;
 }
+
+//ddd
